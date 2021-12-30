@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=Turn Off the Monitor
 Categories=Application;Utilities;
-Exec=/home/igor/.local/bin/TurnOffMonitor.sh
+Exec=/home/igor/.local/bin/turn-off-monitor.sh
 GenericName=Turn Off Monitor
 Icon=weather-clear-night
 Name=Turn Off Monitor
